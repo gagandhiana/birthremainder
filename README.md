@@ -1,4 +1,4 @@
-# About birthremailder
+# About birthremainder
 
 In this project, we will send mails to the registerd users to wish them on thier birthday. We will use command, job and schedule to send mails in queue.
 
