@@ -21,7 +21,7 @@ protected $signature = 'users:birthreminder';
 ~~~~
 php artisan users:birthreminder
 ~~~~
-### - The $description variable is something which should take the precedence with your actual description. This description provides the information about the command.
+- The $description variable is something which should take the precedence with your actual description. This description provides the information about the command.
 ~~~~
 protected $description = 'Respectively send birthday wishes to registered users on their birth date via email.';
 ~~~~
